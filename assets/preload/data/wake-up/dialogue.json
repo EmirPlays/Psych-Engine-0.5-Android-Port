@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright alright... I think now, let's leave this for now, now..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's over please."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm going to put the microphone in my..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraahh",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AHHHHHHHHHHHH!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraahh",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHERE IS MY MAGIC POCKET??????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraahh",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I HAD IT!! HERE WHAT MOMENT WAS LOST?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Doraemon... isn't that the one the boy has?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Whoever finds it keeps it..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOUUUUUUU!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHY ARE YOU HOLDING THINGS THAT DO NOT BELONG TO YOU!!!???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OOOH SO WHY DO YOU WANT??? I WILL SHOW YOU!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Doraemon calm down..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT UP NOBI !!! MY MAGIC POCKET IS SPECIAL!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AND NOBODY CAN GRAB IT, LESS THAN STEAL IT!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep beep boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OHH SO YOU WANT MORE SONGS???????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'LL GIVE YOU THE SONGS THAT YOU ASK ME SO MUCH!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AND THEN YOU LEAVE HERE STUPID CHILD!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "bop beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Doraemon..."
+		}
+	]
+}
