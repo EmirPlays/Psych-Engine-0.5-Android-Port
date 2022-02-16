@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dorarage.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="doraemon down note0000" x="0" y="0" width="1204" height="1204"/>
+	<SubTexture name="doraemon down note0001" x="1204" y="0" width="1204" height="1204"/>
+	<SubTexture name="doraemon down note0002" x="1204" y="0" width="1204" height="1204"/>
+	<SubTexture name="doraemon down note0003" x="2408" y="0" width="1204" height="1204"/>
+	<SubTexture name="doraemon down note0004" x="2408" y="0" width="1204" height="1204"/>
+	<SubTexture name="doraemon idle dance0000" x="3612" y="0" width="1204" height="1202"/>
+	<SubTexture name="doraemon idle dance0001" x="3612" y="0" width="1204" height="1202"/>
+	<SubTexture name="doraemon idle dance0002" x="4816" y="0" width="1204" height="1202"/>
+	<SubTexture name="doraemon idle dance0003" x="4816" y="0" width="1204" height="1202"/>
+	<SubTexture name="doraemon idle dance0004" x="6020" y="0" width="1204" height="1202"/>
+	<SubTexture name="doraemon idle dance0005" x="6020" y="0" width="1204" height="1202"/>
+	<SubTexture name="doraemon idle dance0006" x="0" y="1204" width="1204" height="1202"/>
+	<SubTexture name="doraemon idle dance0007" x="0" y="1204" width="1204" height="1202"/>
+	<SubTexture name="doraemon left note0000" x="1204" y="1204" width="1249" height="1235"/>
+	<SubTexture name="doraemon left note0001" x="2453" y="1204" width="1249" height="1235"/>
+	<SubTexture name="doraemon left note0002" x="2453" y="1204" width="1249" height="1235"/>
+	<SubTexture name="doraemon left note0003" x="3702" y="1204" width="1249" height="1235"/>
+	<SubTexture name="doraemon left note0004" x="3702" y="1204" width="1249" height="1235"/>
+	<SubTexture name="doraemon right note0000" x="4951" y="1204" width="1246" height="1214"/>
+	<SubTexture name="doraemon right note0001" x="6197" y="1204" width="1246" height="1214"/>
+	<SubTexture name="doraemon right note0002" x="6197" y="1204" width="1246" height="1214"/>
+	<SubTexture name="doraemon right note0003" x="0" y="2439" width="1246" height="1214"/>
+	<SubTexture name="doraemon right note0004" x="0" y="2439" width="1246" height="1214"/>
+	<SubTexture name="doraemon up note0000" x="1246" y="2439" width="1246" height="1214"/>
+	<SubTexture name="doraemon up note0001" x="2492" y="2439" width="1246" height="1214"/>
+	<SubTexture name="doraemon up note0002" x="2492" y="2439" width="1246" height="1214"/>
+	<SubTexture name="doraemon up note0003" x="3738" y="2439" width="1246" height="1214"/>
+	<SubTexture name="doraemon up note0004" x="3738" y="2439" width="1246" height="1214"/>
+</TextureAtlas>

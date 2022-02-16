@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="atenea.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="atenea dance0000" x="0" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0001" x="703" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0002" x="1406" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0003" x="2109" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0004" x="2812" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0005" x="3515" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0006" x="4218" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0007" x="4921" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0008" x="4921" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0009" x="4921" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0010" x="5624" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0011" x="6327" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0012" x="6327" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0013" x="7030" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0014" x="7030" y="0" width="703" height="807"/>
+	<SubTexture name="atenea dance0015" x="0" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0016" x="703" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0017" x="1406" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0018" x="2109" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0019" x="2812" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0020" x="3515" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0021" x="4218" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0022" x="4921" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0023" x="4921" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0024" x="4921" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0025" x="5624" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0026" x="6327" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0027" x="7030" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0028" x="7030" y="807" width="703" height="807"/>
+	<SubTexture name="atenea dance0029" x="7030" y="807" width="703" height="807"/>
+	<SubTexture name="atenea sad0000" x="0" y="1614" width="699" height="800"/>
+	<SubTexture name="atenea sad0001" x="0" y="1614" width="699" height="800"/>
+	<SubTexture name="atenea sad0002" x="699" y="1614" width="699" height="800"/>
+	<SubTexture name="atenea sad0003" x="699" y="1614" width="699" height="800"/>
+	<SubTexture name="atenea sad0004" x="1398" y="1614" width="699" height="800"/>
+	<SubTexture name="atenea sad0005" x="1398" y="1614" width="699" height="800"/>
+	<SubTexture name="atenea sad0006" x="2097" y="1614" width="699" height="800"/>
+	<SubTexture name="atenea sad0007" x="2097" y="1614" width="699" height="800"/>
+</TextureAtlas>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tenshi.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tenshi down0000" x="0" y="0" width="896" height="1214"/>
+	<SubTexture name="tenshi down0001" x="896" y="0" width="896" height="1214"/>
+	<SubTexture name="tenshi down0002" x="1792" y="0" width="896" height="1214"/>
+	<SubTexture name="tenshi down fail0000" x="2688" y="0" width="890" height="1198"/>
+	<SubTexture name="tenshi down fail0001" x="3578" y="0" width="890" height="1198"/>
+	<SubTexture name="tenshi down fail0002" x="4468" y="0" width="890" height="1198"/>
+	<SubTexture name="tenshi idle0000" x="5358" y="0" width="817" height="1243"/>
+	<SubTexture name="tenshi idle0001" x="6175" y="0" width="817" height="1243"/>
+	<SubTexture name="tenshi idle0002" x="6992" y="0" width="817" height="1243"/>
+	<SubTexture name="tenshi idle0003" x="0" y="1243" width="817" height="1243"/>
+	<SubTexture name="tenshi left0000" x="817" y="1243" width="991" height="1242"/>
+	<SubTexture name="tenshi left0001" x="1808" y="1243" width="991" height="1242"/>
+	<SubTexture name="tenshi left0002" x="2799" y="1243" width="991" height="1242"/>
+	<SubTexture name="tenshi left fail0000" x="3790" y="1243" width="965" height="1236"/>
+	<SubTexture name="tenshi left fail0001" x="4755" y="1243" width="965" height="1236"/>
+	<SubTexture name="tenshi left fail0002" x="5720" y="1243" width="965" height="1236"/>
+	<SubTexture name="tenshi right0000" x="6685" y="1243" width="875" height="1271"/>
+	<SubTexture name="tenshi right0001" x="0" y="2514" width="875" height="1271"/>
+	<SubTexture name="tenshi right0002" x="875" y="2514" width="875" height="1271"/>
+	<SubTexture name="tenshi right fail0000" x="1750" y="2514" width="865" height="1282"/>
+	<SubTexture name="tenshi right fail0001" x="2615" y="2514" width="865" height="1282"/>
+	<SubTexture name="tenshi right fail0002" x="3480" y="2514" width="865" height="1282"/>
+	<SubTexture name="tenshi up0000" x="4345" y="2514" width="948" height="1297"/>
+	<SubTexture name="tenshi up0001" x="5293" y="2514" width="948" height="1297"/>
+	<SubTexture name="tenshi up0002" x="6241" y="2514" width="948" height="1297"/>
+	<SubTexture name="tenshi up fail0000" x="0" y="3811" width="1085" height="1309"/>
+	<SubTexture name="tenshi up fail0001" x="1085" y="3811" width="1085" height="1309"/>
+	<SubTexture name="tenshi up fail0002" x="2170" y="3811" width="1085" height="1309"/>
+</TextureAtlas>

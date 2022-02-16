@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yapper.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yapper down0000" x="0" y="0" width="1260" height="1139"/>
+	<SubTexture name="yapper down0001" x="1260" y="0" width="1260" height="1139"/>
+	<SubTexture name="yapper down0002" x="2520" y="0" width="1260" height="1139"/>
+	<SubTexture name="yapper idle0000" x="3780" y="0" width="1198" height="1145"/>
+	<SubTexture name="yapper idle0001" x="4978" y="0" width="1198" height="1145"/>
+	<SubTexture name="yapper idle0002" x="6176" y="0" width="1198" height="1145"/>
+	<SubTexture name="yapper idle0003" x="0" y="1145" width="1198" height="1145"/>
+	<SubTexture name="yapper left0000" x="1198" y="1145" width="1162" height="1329"/>
+	<SubTexture name="yapper left0001" x="2360" y="1145" width="1162" height="1329"/>
+	<SubTexture name="yapper left0002" x="3522" y="1145" width="1162" height="1329"/>
+	<SubTexture name="yapper right0000" x="4684" y="1145" width="1321" height="1356"/>
+	<SubTexture name="yapper right0001" x="6005" y="1145" width="1321" height="1356"/>
+	<SubTexture name="yapper right0002" x="0" y="2501" width="1321" height="1356"/>
+	<SubTexture name="yapper up0000" x="1321" y="2501" width="1408" height="1413"/>
+	<SubTexture name="yapper up0001" x="2729" y="2501" width="1408" height="1413"/>
+	<SubTexture name="yapper up0002" x="4137" y="2501" width="1408" height="1413"/>
+</TextureAtlas>

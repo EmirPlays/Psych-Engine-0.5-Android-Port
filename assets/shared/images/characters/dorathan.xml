@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dorathan.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dorathan down note0000" x="0" y="0" width="1100" height="1059"/>
+	<SubTexture name="dorathan down note0001" x="1100" y="0" width="1100" height="1059"/>
+	<SubTexture name="dorathan down note0002" x="1100" y="0" width="1100" height="1059"/>
+	<SubTexture name="dorathan hey0000" x="2200" y="0" width="1203" height="1141"/>
+	<SubTexture name="dorathan hey0001" x="3403" y="0" width="1203" height="1141"/>
+	<SubTexture name="dorathan hey0002" x="3403" y="0" width="1203" height="1141"/>
+	<SubTexture name="dorathan hey0003" x="4606" y="0" width="1203" height="1141"/>
+	<SubTexture name="dorathan hey0004" x="4606" y="0" width="1203" height="1141"/>
+	<SubTexture name="dorathan idle dance0000" x="5809" y="0" width="1120" height="1038"/>
+	<SubTexture name="dorathan idle dance0001" x="5809" y="0" width="1120" height="1038"/>
+	<SubTexture name="dorathan idle dance0002" x="6929" y="0" width="1120" height="1038"/>
+	<SubTexture name="dorathan idle dance0003" x="6929" y="0" width="1120" height="1038"/>
+	<SubTexture name="dorathan idle dance0004" x="0" y="1141" width="1120" height="1038"/>
+	<SubTexture name="dorathan idle dance0005" x="0" y="1141" width="1120" height="1038"/>
+	<SubTexture name="dorathan idle dance0006" x="1120" y="1141" width="1120" height="1038"/>
+	<SubTexture name="dorathan idle dance0007" x="1120" y="1141" width="1120" height="1038"/>
+	<SubTexture name="dorathan left note0000" x="2240" y="1141" width="1126" height="1014"/>
+	<SubTexture name="dorathan left note0001" x="3366" y="1141" width="1126" height="1014"/>
+	<SubTexture name="dorathan left note0002" x="3366" y="1141" width="1126" height="1014"/>
+	<SubTexture name="dorathan left note0003" x="4492" y="1141" width="1126" height="1014"/>
+	<SubTexture name="dorathan left note0004" x="4492" y="1141" width="1126" height="1014"/>
+	<SubTexture name="dorathan right note0000" x="5618" y="1141" width="1202" height="1014"/>
+	<SubTexture name="dorathan right note0001" x="6820" y="1141" width="1202" height="1014"/>
+	<SubTexture name="dorathan right note0002" x="6820" y="1141" width="1202" height="1014"/>
+	<SubTexture name="dorathan right note0003" x="0" y="2179" width="1202" height="1014"/>
+	<SubTexture name="dorathan right note0004" x="0" y="2179" width="1202" height="1014"/>
+	<SubTexture name="dorathan up note0000" x="1202" y="2179" width="1119" height="1129"/>
+	<SubTexture name="dorathan up note0001" x="2321" y="2179" width="1119" height="1129"/>
+	<SubTexture name="dorathan up note0002" x="2321" y="2179" width="1119" height="1129"/>
+	<SubTexture name="dorathan up note0003" x="3440" y="2179" width="1119" height="1129"/>
+	<SubTexture name="dorathan up note0004" x="3440" y="2179" width="1119" height="1129"/>
+</TextureAtlas>

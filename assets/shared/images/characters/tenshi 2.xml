@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tenshi 2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tenshi dead0000" x="0" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0001" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0002" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0003" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0004" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0005" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0006" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0007" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0008" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0009" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0010" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0011" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0012" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0013" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0014" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0015" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0016" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0017" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0018" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0019" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0020" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0021" x="1217" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0022" x="2434" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0023" x="2434" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0024" x="3651" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0025" x="4868" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead0026" x="6085" y="0" width="1217" height="1249"/>
+	<SubTexture name="tenshi dead ok0000" x="0" y="1249" width="1205" height="1281"/>
+	<SubTexture name="tenshi dead ok0001" x="1205" y="1249" width="1205" height="1281"/>
+	<SubTexture name="tenshi dead ok0002" x="2410" y="1249" width="1205" height="1281"/>
+	<SubTexture name="tenshi dead ok0003" x="3615" y="1249" width="1205" height="1281"/>
+	<SubTexture name="tenshi dead ok0004" x="4820" y="1249" width="1205" height="1281"/>
+	<SubTexture name="tenshi dead ok0005" x="6025" y="1249" width="1205" height="1281"/>
+	<SubTexture name="tenshi dloop0000" x="0" y="2530" width="1320" height="1281"/>
+	<SubTexture name="tenshi dloop0001" x="1320" y="2530" width="1320" height="1281"/>
+	<SubTexture name="tenshi dloop0002" x="2640" y="2530" width="1320" height="1281"/>
+	<SubTexture name="tenshi dloop0003" x="3960" y="2530" width="1320" height="1281"/>
+	<SubTexture name="tenshi down0000" x="5280" y="2530" width="896" height="1214"/>
+	<SubTexture name="tenshi down0001" x="6176" y="2530" width="896" height="1214"/>
+	<SubTexture name="tenshi down0002" x="7072" y="2530" width="896" height="1214"/>
+	<SubTexture name="tenshi down fail0000" x="0" y="3811" width="890" height="1198"/>
+	<SubTexture name="tenshi down fail0001" x="890" y="3811" width="890" height="1198"/>
+	<SubTexture name="tenshi down fail0002" x="1780" y="3811" width="890" height="1198"/>
+	<SubTexture name="tenshi idle0000" x="2670" y="3811" width="789" height="1230"/>
+	<SubTexture name="tenshi idle0001" x="3459" y="3811" width="789" height="1230"/>
+	<SubTexture name="tenshi idle0002" x="4248" y="3811" width="789" height="1230"/>
+	<SubTexture name="tenshi left0000" x="5037" y="3811" width="991" height="1242"/>
+	<SubTexture name="tenshi left0001" x="6028" y="3811" width="991" height="1242"/>
+	<SubTexture name="tenshi left0002" x="7019" y="3811" width="991" height="1242"/>
+	<SubTexture name="tenshi left fail0000" x="0" y="5053" width="965" height="1236"/>
+	<SubTexture name="tenshi left fail0001" x="965" y="5053" width="965" height="1236"/>
+	<SubTexture name="tenshi left fail0002" x="1930" y="5053" width="965" height="1236"/>
+	<SubTexture name="tenshi right0000" x="2895" y="5053" width="875" height="1271"/>
+	<SubTexture name="tenshi right0001" x="3770" y="5053" width="875" height="1271"/>
+	<SubTexture name="tenshi right0002" x="4645" y="5053" width="875" height="1271"/>
+	<SubTexture name="tenshi right fail0000" x="5520" y="5053" width="865" height="1282"/>
+	<SubTexture name="tenshi right fail0001" x="6385" y="5053" width="865" height="1282"/>
+	<SubTexture name="tenshi right fail0002" x="7250" y="5053" width="865" height="1282"/>
+	<SubTexture name="tenshi up0000" x="0" y="6335" width="948" height="1297"/>
+	<SubTexture name="tenshi up0001" x="948" y="6335" width="948" height="1297"/>
+	<SubTexture name="tenshi up0002" x="1896" y="6335" width="948" height="1297"/>
+	<SubTexture name="tenshi up fail0000" x="2844" y="6335" width="1085" height="1309"/>
+	<SubTexture name="tenshi up fail0001" x="3929" y="6335" width="1085" height="1309"/>
+	<SubTexture name="tenshi up fail0002" x="5014" y="6335" width="1085" height="1309"/>
+</TextureAtlas>
