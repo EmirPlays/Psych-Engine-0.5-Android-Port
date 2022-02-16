@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				125,
+				140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				1,
+				2
+			],
+			"name": "dorathan idle dance"
+		},
+		{
+			"offsets": [
+				120,
+				140
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "dorathan idle dance"
+		},
+		{
+			"offsets": [
+				115,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "dorathan hey"
+		},
+		{
+			"offsets": [
+				133,
+				123
+			],
+			"loop": true,
+			"fps": 40,
+			"anim": "singLEFT-loop",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "dorathan left note"
+		},
+		{
+			"offsets": [
+				115,
+				123
+			],
+			"loop": true,
+			"fps": 40,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "dorathan right note"
+		},
+		{
+			"offsets": [
+				127,
+				203
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "dorathan up note"
+		},
+		{
+			"offsets": [
+				116,
+				138
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				2
+			],
+			"name": "dorathan down note"
+		},
+		{
+			"offsets": [
+				136,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "dorathan left note"
+		},
+		{
+			"offsets": [
+				118,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "dorathan right note"
+		},
+		{
+			"offsets": [
+				128,
+				204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "dorathan up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dorathan",
+	"position": [
+		-200,
+		20
+	],
+	"healthicon": "dorathan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		60,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

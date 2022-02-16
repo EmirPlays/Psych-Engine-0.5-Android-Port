@@ -1,0 +1,312 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-127,
+				-6
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				1
+			],
+			"fps": 14,
+			"anim": "idle",
+			"loop": false,
+			"name": "tenshi idle"
+		},
+		{
+			"offsets": [
+				-77,
+				0
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tenshi left"
+		},
+		{
+			"offsets": [
+				-127,
+				-14
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tenshi down"
+		},
+		{
+			"offsets": [
+				-122,
+				26
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tenshi up"
+		},
+		{
+			"offsets": [
+				-127,
+				14
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tenshi right"
+		},
+		{
+			"offsets": [
+				-82,
+				-4
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 13,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "tenshi left fail"
+		},
+		{
+			"offsets": [
+				-129,
+				-23
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 13,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "tenshi down fail"
+		},
+		{
+			"offsets": [
+				-81,
+				30
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 13,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "tenshi up fail"
+		},
+		{
+			"offsets": [
+				-129,
+				18
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 13,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "tenshi right fail"
+		},
+		{
+			"offsets": [
+				-126,
+				-8
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				1,
+				2,
+				1,
+				2,
+				1
+			],
+			"fps": 30,
+			"anim": "hey",
+			"loop": false,
+			"name": "tenshi idle"
+		},
+		{
+			"offsets": [
+				-81,
+				29
+			],
+			"indices": [
+				1,
+				2,
+				1,
+				2,
+				1,
+				2
+			],
+			"fps": 20,
+			"anim": "hurt",
+			"loop": false,
+			"name": "tenshi up fail"
+		},
+		{
+			"offsets": [
+				-129,
+				17
+			],
+			"indices": [
+				1,
+				2,
+				1,
+				2,
+				1,
+				2
+			],
+			"fps": 32,
+			"anim": "scared",
+			"loop": true,
+			"name": "tenshi right fail"
+		},
+		{
+			"offsets": [
+				-11,
+				-9
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26
+			],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "tenshi dead"
+		},
+		{
+			"offsets": [
+				25,
+				11
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				2
+			],
+			"fps": 12,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "tenshi dloop"
+		},
+		{
+			"offsets": [
+				-17,
+				11
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 16,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "tenshi dead ok"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "tenshi idle"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "tenshi idle"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pre-attack",
+			"loop": false,
+			"name": "tenshi idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tenshi 2",
+	"position": [
+		-390,
+		-180
+	],
+	"healthicon": "tenshi",
+	"flip_x": true,
+	"healthbar_colors": [
+		195,
+		160,
+		109
+	],
+	"camera_position": [
+		-290,
+		360
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

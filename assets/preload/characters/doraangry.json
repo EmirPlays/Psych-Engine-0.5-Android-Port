@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				25
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mom Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				121,
+				-1
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mom Left Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-41
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mom Pose Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-170
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MOM DOWN POSE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				81
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mom Up Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Mom Idle"
+		},
+		{
+			"offsets": [
+				120,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Mom Left Pose"
+		},
+		{
+			"offsets": [
+				24,
+				81
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Mom Up Pose"
+		},
+		{
+			"offsets": [
+				20,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Mom Pose Left"
+		},
+		{
+			"offsets": [
+				-10,
+				-170
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "MOM DOWN POSE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/momCar",
+	"position": [
+		-30,
+		10
+	],
+	"healthicon": "doraan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		115
+	],
+	"camera_position": [
+		-40,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-6
+			],
+			"anim": "idle",
+			"fps": 25,
+			"name": "doraemon idle dance",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 35,
+			"name": "doraemon left note",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "doraemon right note",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 45,
+			"name": "doraemon up note",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 35,
+			"name": "doraemon down note",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dorarage",
+	"position": [
+		-430,
+		-210
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		0,
+		0
+	],
+	"camera_position": [
+		320,
+		340
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}
