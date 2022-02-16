@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HOW IS IT POSSIBLE YOU CAN BEAT A SONG AT THAT SPEED????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THIS IS UNFAIR, FIRST YOU STOLE MY MAGIC POCKET!! AND THEN YOU GET OUT WITH YOURS!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I CAN'T TAKE ANY MORE WITH THIS!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ONE MORE SONG!!??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ARE YOU F***ING ME!!??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "D-D-DORAEMON..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": ".....!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "......!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": ".......!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".....!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I see that speed only makes you be the best..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But let's see...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if I do the opposite of fast speed..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AND AS FOR YOU!!! I'M GOING TO TEACH YOU NOT TO MESS WITH ME!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I AM DORAEMON, A ROBOTIC CAT FROM THE 22ND CENTURY!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop"
+		}
+	]
+}
