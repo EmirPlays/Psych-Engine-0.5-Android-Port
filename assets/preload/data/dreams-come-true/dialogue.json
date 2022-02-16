@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Very good very good, finish, we are done, now... it would be best if you left at your time"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How not?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have to go back..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Spacetime could be altered and there could be changes in the future"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobicry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Does that mean Shizuka and I won't be never together!!??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If he does not intervene obviously you will be with her... I guess"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorammm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Please, whoever you are, go back where you came from"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mmmm... more songs uh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorammm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I guess there's no other choice... one last round and you're gone"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorammm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "For your sake, and for the good of all please"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Doraemon...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's okay Nobi, let's sing one of my favorite songs"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Which one? to that of dreams?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobihappy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "That's my favorite too!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Exactly!!!!"
+		}
+	]
+}
