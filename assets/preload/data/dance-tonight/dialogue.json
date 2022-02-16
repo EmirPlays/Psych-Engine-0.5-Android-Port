@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Second round lost, nothing happens"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There is still a third"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know? the musics should not always be of the same genre"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look, we use Techno here because it's cool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But Doraemon we are of the year..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT UP NOBI!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": ".....beep....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorammm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Better dance with shizuka tonight"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobicry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "D-D-DD-DORAIMOON!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorainvent",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Haa another song!! to give it again!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "... bep...?"
+		}
+	]
+}
