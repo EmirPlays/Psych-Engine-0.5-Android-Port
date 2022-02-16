@@ -1,0 +1,48 @@
+{
+	"storyName": "feline leviathan",
+	"hideFreeplay": false,
+	"weekBackground": "dorathan",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dorarage",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"purgatory",
+			"monster",
+			[
+				120,
+				0,
+				0
+			]
+		],
+		[
+			"shredder",
+			"monster",
+			[
+				120,
+				0,
+				0
+			]
+		],
+		[
+			"dorathan",
+			"dorathan",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "cap 4"
+}

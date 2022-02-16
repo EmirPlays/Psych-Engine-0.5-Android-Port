@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"dreams come true",
+			"mom",
+			[
+				0,
+				60,
+				235
+			]
+		],
+		[
+			"wake up",
+			"doraan",
+			[
+				0,
+				60,
+				235
+			]
+		],
+		[
+			"exterminator",
+			"doraan",
+			[
+				0,
+				60,
+				235
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"storyName": "cosmic cat in fury",
+	"weekName": "cap 3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

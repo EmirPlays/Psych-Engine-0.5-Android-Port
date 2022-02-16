@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"goodbye",
+			"yapper",
+			[
+				40,
+				0,
+				93
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"silver",
+		"bf",
+		"gf"
+	],
+	"storyName": "spin off thanks to...",
+	"weekName": "bonus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

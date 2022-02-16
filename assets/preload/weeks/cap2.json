@@ -1,0 +1,48 @@
+{
+	"storyName": "doraemon",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"gadget cat",
+			"mom",
+			[
+				46,
+				193,
+				253
+			]
+		],
+		[
+			"shiny house",
+			"mom",
+			[
+				46,
+				193,
+				253
+			]
+		],
+		[
+			"dance tonight",
+			"mom",
+			[
+				46,
+				193,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "cap2"
+}
