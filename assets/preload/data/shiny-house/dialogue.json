@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It was fun, even if I didn't win, it was great"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well... are you ready for the second round?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Another round??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Exactly, in the future, the singing battles are 3 rounds"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The truth is that... the 21st century is very disappointing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But damn it, there is no other choice..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Doraemon..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It doesn't matter Nobi, you'll be an adult when it happens"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "For now... think of a huge shiny house"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "That's it!!"
+		}
+	]
+}
