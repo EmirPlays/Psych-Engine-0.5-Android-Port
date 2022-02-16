@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Dorarage.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle dora0000" x="0" y="0" width="739" height="1115"/>
+	<SubTexture name="idle dora0001" x="739" y="0" width="739" height="1115"/>
+	<SubTexture name="idle dora0002" x="1478" y="0" width="739" height="1115"/>
+	<SubTexture name="idle dora0003" x="2217" y="0" width="739" height="1115"/>
+	<SubTexture name="idle dora0004" x="2956" y="0" width="739" height="1115"/>
+	<SubTexture name="idle dora0005" x="2217" y="0" width="739" height="1115"/>
+	<SubTexture name="idle dora0006" x="1478" y="0" width="739" height="1115"/>
+	<SubTexture name="idle dora0007" x="739" y="0" width="739" height="1115"/>
+</TextureAtlas>

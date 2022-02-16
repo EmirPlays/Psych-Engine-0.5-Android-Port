@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle dora",
+	"image": "Menu_Dorarage",
+	"position": [
+		286,
+		336
+	],
+	"scale": 0.3,
+	"confirm_anim": "M Dad Idle"
+}
