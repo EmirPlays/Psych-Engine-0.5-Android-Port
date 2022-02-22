@@ -7,3 +7,11 @@ function onStartCountdown()
 	end
 	return Function_Continue;
 end
+function onEndSong()
+	if not allowEnd and isStoryMode then
+		startVideo('dora4');
+		allowEnd = true;
+		return Function_Stop;
+	end
+	return Function_Continue;
+end
