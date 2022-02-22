@@ -20,6 +20,7 @@ class CoolUtil
 		'Easy',
 		'Normal',
 		'Hard'
+		'Doublebarrel'
 	];
 	public static var defaultDifficulty:String = 'Normal'; //The chart that has no suffix and starting difficulty on Freeplay/Story Mode
 
