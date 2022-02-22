@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				1
+			],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "time idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			],
+			"fps": 10,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "time idle"
+		},
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "time left"
+		},
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "time down"
+		},
+		{
+			"offsets": [
+				0,
+				7
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": true,
+			"name": "time up"
+		},
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "time right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nobitime",
+	"position": [
+		60,
+		50
+	],
+	"healthicon": "nobidec",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		35,
+		120
+	],
+	"camera_position": [
+		-50,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

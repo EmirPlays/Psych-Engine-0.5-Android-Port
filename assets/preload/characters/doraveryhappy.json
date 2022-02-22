@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-1
+			],
+			"anim": "idle",
+			"fps": 22,
+			"name": "hap idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				11,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "hap left",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-53,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "hap right",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				13
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "hap up",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-16,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "hap down",
+			"indices": [
+				1,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dorahappy",
+	"position": [
+		90,
+		230
+	],
+	"healthicon": "dorahappy",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		140,
+		255
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

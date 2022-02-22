@@ -1,0 +1,145 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				36,
+				67
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 25,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "BF idle left"
+		},
+		{
+			"offsets": [
+				20,
+				55
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 25,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "BF idle down"
+		},
+		{
+			"offsets": [
+				15,
+				92
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 25,
+			"anim": "singUP",
+			"loop": true,
+			"name": "BF idle up"
+		},
+		{
+			"offsets": [
+				10,
+				66
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 25,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "BF idle right"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "hurt",
+			"loop": false,
+			"name": "BF idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bftime",
+	"position": [
+		-160,
+		190
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		130,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

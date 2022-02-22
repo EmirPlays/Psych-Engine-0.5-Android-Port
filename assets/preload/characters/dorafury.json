@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "dora idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "dora left",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-58,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 31,
+			"name": "dora right",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-39,
+				18
+			],
+			"anim": "singUP",
+			"fps": 31,
+			"name": "dora up",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-23,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 31,
+			"name": "dora down",
+			"indices": [
+				1,
+				2
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dorafury",
+	"position": [
+		90,
+		230
+	],
+	"healthicon": "doraarrep",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		36,
+		40
+	],
+	"camera_position": [
+		-30,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
