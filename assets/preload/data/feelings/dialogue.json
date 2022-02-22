@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We are getting closer to reaching Dorathan day."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't know if I can do it, I'm not like you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ski boop beep, beep bop bo ski doo beep bop bap beep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BOP!! BO-BA-E-BOP!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadhap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah... you're right!! Anything for my best friend!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok... This is the plan. When Doraemon locks you in the magic door, we will enter together!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Doraemon has to know that the magic pocket was nothing more than just a joke..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I knew you weren't a bad boy, and he must know it too!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadhap",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "let's go with everything!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "BEEP!!!!"
+		}
+	]
+}
