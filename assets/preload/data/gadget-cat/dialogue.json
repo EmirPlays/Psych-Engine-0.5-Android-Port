@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "nobicry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Waaaaaaaaaa not again!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorammm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This time that's already your fault for not putting it to good use"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap bep osdjpasmd"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobicry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know what !? I don't want to sing again anymore!! I quit!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorammm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I told you that they are from a different era..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? What do you want me to sing too?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't know... what will happen to space time?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look, you sing well and everything, but you really have to go"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep bop bep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well... if I sing with you, do you promise to leave?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well... Better take advantage of the time and have fun!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's the attitude!! Doraemon!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beeeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorahappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, get ready for my epic song!!"
+		}
+	]
+}
