@@ -1,0 +1,48 @@
+{
+	"storyName": "back to the present",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"bittery",
+			"nobi",
+			[
+				186,
+				53,
+				0
+			]
+		],
+		[
+			"futuristic",
+			"nobi",
+			[
+				186,
+				53,
+				0
+			]
+		],
+		[
+			"tomodachi",
+			"nobi",
+			[
+				186,
+				53,
+				0
+			]
+		]
+	],
+	"weekName": "chapter5"
+}

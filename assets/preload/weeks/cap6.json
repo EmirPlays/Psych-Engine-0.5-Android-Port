@@ -1,0 +1,48 @@
+{
+	"storyName": "to the time machine",
+	"hideFreeplay": false,
+	"weekBackground": "spacecat",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "cap5",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"machine",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ignored",
+			"nobidec",
+			[
+				135,
+				0,
+				120
+			]
+		],
+		[
+			"you and me",
+			"nobidec",
+			[
+				135,
+				0,
+				120
+			]
+		],
+		[
+			"feelings",
+			"nobidec",
+			[
+				135,
+				0,
+				120
+			]
+		]
+	],
+	"weekName": "chapter6"
+}

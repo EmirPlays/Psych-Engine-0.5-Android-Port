@@ -1,0 +1,48 @@
+{
+	"storyName": "stand by me",
+	"hideFreeplay": false,
+	"weekBackground": "end",
+	"weekBefore": "cap6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"dorarage",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"melodic melancholy",
+			"doraarrep",
+			[
+				86,
+				0,
+				35
+			]
+		],
+		[
+			"show me",
+			"doraarrep",
+			[
+				86,
+				0,
+				35
+			]
+		],
+		[
+			"our world",
+			"dorahappy",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "chapter7"
+}
