@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dorafury.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dora down0000" x="0" y="0" width="409" height="480"/>
+	<SubTexture name="dora down0001" x="409" y="0" width="409" height="480"/>
+	<SubTexture name="dora down0002" x="818" y="0" width="409" height="480"/>
+	<SubTexture name="dora idle0000" x="1227" y="0" width="475" height="508"/>
+	<SubTexture name="dora idle0001" x="0" y="508" width="475" height="508"/>
+	<SubTexture name="dora idle0002" x="475" y="508" width="475" height="508"/>
+	<SubTexture name="dora idle0003" x="950" y="508" width="475" height="508"/>
+	<SubTexture name="dora left0000" x="1425" y="508" width="431" height="497"/>
+	<SubTexture name="dora left0001" x="0" y="1016" width="431" height="497"/>
+	<SubTexture name="dora left0002" x="431" y="1016" width="431" height="497"/>
+	<SubTexture name="dora right0000" x="862" y="1016" width="432" height="492"/>
+	<SubTexture name="dora right0001" x="1294" y="1016" width="432" height="492"/>
+	<SubTexture name="dora right0002" x="0" y="1513" width="432" height="492"/>
+	<SubTexture name="dora up0000" x="432" y="1513" width="434" height="533"/>
+	<SubTexture name="dora up0001" x="866" y="1513" width="434" height="533"/>
+	<SubTexture name="dora up0002" x="1300" y="1513" width="434" height="533"/>
+</TextureAtlas>

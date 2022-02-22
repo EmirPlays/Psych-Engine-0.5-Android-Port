@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dorahappy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hap down0000" x="0" y="0" width="381" height="492"/>
+	<SubTexture name="hap down0001" x="381" y="0" width="381" height="492"/>
+	<SubTexture name="hap down0002" x="762" y="0" width="381" height="492"/>
+	<SubTexture name="hap idle0000" x="1143" y="0" width="345" height="523"/>
+	<SubTexture name="hap idle0001" x="1488" y="0" width="345" height="523"/>
+	<SubTexture name="hap idle0002" x="1833" y="0" width="345" height="523"/>
+	<SubTexture name="hap idle0003" x="2178" y="0" width="345" height="523"/>
+	<SubTexture name="hap left0000" x="2523" y="0" width="385" height="509"/>
+	<SubTexture name="hap left0001" x="2908" y="0" width="385" height="509"/>
+	<SubTexture name="hap left0002" x="3293" y="0" width="385" height="509"/>
+	<SubTexture name="hap right0000" x="3678" y="0" width="404" height="505"/>
+	<SubTexture name="hap right0001" x="0" y="523" width="404" height="505"/>
+	<SubTexture name="hap right0002" x="404" y="523" width="404" height="505"/>
+	<SubTexture name="hap up0000" x="808" y="523" width="392" height="535"/>
+	<SubTexture name="hap up0001" x="1200" y="523" width="392" height="535"/>
+	<SubTexture name="hap up0002" x="1592" y="523" width="392" height="535"/>
+</TextureAtlas>

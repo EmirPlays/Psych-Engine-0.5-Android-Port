@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nobisad.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nobi down0000" x="0" y="0" width="302" height="603"/>
+	<SubTexture name="nobi down0001" x="302" y="0" width="302" height="603"/>
+	<SubTexture name="nobi down0002" x="604" y="0" width="302" height="603"/>
+	<SubTexture name="nobi idle0000" x="906" y="0" width="325" height="600"/>
+	<SubTexture name="nobi idle0001" x="1231" y="0" width="325" height="600"/>
+	<SubTexture name="nobi idle0002" x="1556" y="0" width="325" height="600"/>
+	<SubTexture name="nobi idle0003" x="0" y="603" width="325" height="600"/>
+	<SubTexture name="nobi left0000" x="325" y="603" width="350" height="598"/>
+	<SubTexture name="nobi left0001" x="675" y="603" width="350" height="598"/>
+	<SubTexture name="nobi left0002" x="1025" y="603" width="350" height="598"/>
+	<SubTexture name="nobi right0000" x="1375" y="603" width="383" height="602"/>
+	<SubTexture name="nobi right0001" x="0" y="1205" width="383" height="602"/>
+	<SubTexture name="nobi right0002" x="383" y="1205" width="383" height="602"/>
+	<SubTexture name="nobi up0000" x="766" y="1205" width="310" height="606"/>
+	<SubTexture name="nobi up0001" x="1076" y="1205" width="310" height="606"/>
+	<SubTexture name="nobi up0002" x="1386" y="1205" width="310" height="606"/>
+</TextureAtlas>

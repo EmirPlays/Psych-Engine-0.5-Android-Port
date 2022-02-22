@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bftime.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle dance0000" x="0" y="0" width="907" height="653"/>
+	<SubTexture name="BF idle dance0001" x="0" y="0" width="907" height="653"/>
+	<SubTexture name="BF idle dance0002" x="907" y="0" width="907" height="653"/>
+	<SubTexture name="BF idle dance0003" x="907" y="0" width="907" height="653"/>
+	<SubTexture name="BF idle dance0004" x="1814" y="0" width="907" height="653"/>
+	<SubTexture name="BF idle dance0005" x="1814" y="0" width="907" height="653"/>
+	<SubTexture name="BF idle dance0006" x="2721" y="0" width="907" height="653"/>
+	<SubTexture name="BF idle dance0007" x="2721" y="0" width="907" height="653"/>
+	<SubTexture name="BF idle dance0008" x="0" y="653" width="907" height="653"/>
+	<SubTexture name="BF idle dance0009" x="0" y="653" width="907" height="653"/>
+	<SubTexture name="BF idle dance0010" x="0" y="653" width="907" height="653"/>
+	<SubTexture name="BF idle dance0011" x="0" y="653" width="907" height="653"/>
+	<SubTexture name="BF idle dance0012" x="0" y="653" width="907" height="653"/>
+	<SubTexture name="BF idle dance0013" x="0" y="653" width="907" height="653"/>
+	<SubTexture name="BF idle down0000" x="907" y="653" width="930" height="701"/>
+	<SubTexture name="BF idle down0001" x="1837" y="653" width="930" height="701"/>
+	<SubTexture name="BF idle down0002" x="2767" y="653" width="930" height="701"/>
+	<SubTexture name="BF idle left0000" x="0" y="1354" width="946" height="713"/>
+	<SubTexture name="BF idle left0001" x="946" y="1354" width="946" height="713"/>
+	<SubTexture name="BF idle left0002" x="1892" y="1354" width="946" height="713"/>
+	<SubTexture name="BF idle right0000" x="2838" y="1354" width="920" height="712"/>
+	<SubTexture name="BF idle right0001" x="0" y="2067" width="920" height="712"/>
+	<SubTexture name="BF idle right0002" x="920" y="2067" width="920" height="712"/>
+	<SubTexture name="BF idle up0000" x="1840" y="2067" width="925" height="738"/>
+	<SubTexture name="BF idle up0001" x="2765" y="2067" width="925" height="738"/>
+	<SubTexture name="BF idle up0002" x="0" y="2805" width="925" height="738"/>
+</TextureAtlas>

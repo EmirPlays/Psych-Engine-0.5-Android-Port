@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nobitime.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="time down0000" x="0" y="0" width="770" height="695"/>
+	<SubTexture name="time down0001" x="770" y="0" width="770" height="695"/>
+	<SubTexture name="time down0002" x="1540" y="0" width="770" height="695"/>
+	<SubTexture name="time idle0000" x="2310" y="0" width="770" height="709"/>
+	<SubTexture name="time idle0001" x="3080" y="0" width="770" height="709"/>
+	<SubTexture name="time idle0002" x="0" y="709" width="770" height="709"/>
+	<SubTexture name="time left0000" x="770" y="709" width="770" height="695"/>
+	<SubTexture name="time left0001" x="1540" y="709" width="770" height="695"/>
+	<SubTexture name="time left0002" x="2310" y="709" width="770" height="695"/>
+	<SubTexture name="time right0000" x="770" y="709" width="770" height="695"/>
+	<SubTexture name="time right0001" x="3080" y="709" width="770" height="695"/>
+	<SubTexture name="time right0002" x="0" y="1418" width="770" height="695"/>
+	<SubTexture name="time up0000" x="770" y="1418" width="770" height="717"/>
+	<SubTexture name="time up0001" x="1540" y="1418" width="770" height="717"/>
+	<SubTexture name="time up0002" x="2310" y="1418" width="770" height="717"/>
+</TextureAtlas>
