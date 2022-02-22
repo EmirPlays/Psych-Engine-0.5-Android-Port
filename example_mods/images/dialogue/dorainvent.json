@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-130,
+		-160
+	],
+	"scale": 0.599999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				1
+			],
+			"loop_name": "dialog",
+			"idle_name": "0,1"
+		}
+	],
+	"image": "dorainvent"
+}

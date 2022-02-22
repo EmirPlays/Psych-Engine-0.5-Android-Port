@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doraugh.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialog0000" x="0" y="0" width="861" height="940"/>
+	<SubTexture name="dialog0001" x="0" y="0" width="861" height="940"/>
+	<SubTexture name="dialog0002" x="861" y="0" width="861" height="940"/>
+	<SubTexture name="dialog0003" x="861" y="0" width="861" height="940"/>
+</TextureAtlas>

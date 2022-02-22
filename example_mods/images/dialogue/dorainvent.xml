@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dorainvent.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialog0000" x="0" y="0" width="933" height="941"/>
+	<SubTexture name="dialog0001" x="0" y="0" width="933" height="941"/>
+	<SubTexture name="dialog0002" x="933" y="0" width="933" height="941"/>
+	<SubTexture name="dialog0003" x="933" y="0" width="933" height="941"/>
+</TextureAtlas>

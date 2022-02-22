@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-100,
+		-160
+	],
+	"scale": 0.599999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				1
+			],
+			"loop_name": "dialog",
+			"idle_name": "dialog00"
+		}
+	],
+	"image": "dorammm"
+}
