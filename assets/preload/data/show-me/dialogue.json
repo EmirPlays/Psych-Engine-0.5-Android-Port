@@ -1,0 +1,193 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'M VERY CONFUSED NOW... WHY THERE ARE 2 BLUE BOYS AND 2 NOBITAS?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "....Bep???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What's going on here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Because as bf told you in the song... we come from the future to stop you... That monster is not you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GRRRRRR... NOW I UNDERSTAND WHAT HAPPENED NOW....!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I TRANSFORMED INTO DORATHAN TO TEACH THIS SPOILED CHILD A LESSON!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AND I DON'T CARE THAT IT WAS A HEAVY JOKE!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop bi... beep..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Doraemon... please stop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHY??? NOW YOU KNOW THAT EVERYTHING IS THANKS TO THE ILLUSION DISC!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BEEP BOOP BOOP!!!!????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The illusion disc... an invention of a crazy father of a family to torment his son, creating monsters from nightmares..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "EXACTLY!! THAT!! ILLUSION DISC!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IN FACT... THE SUPPOSED *HELL* IS ACTUALLY YOUR ROOM NOBITA!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAAAAAAT???? AND WHY????????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "MY IDEA WAS THAT TRANSFORMED INTO DORATHAN, I WAS GOING TO RETURN THIS COUPLE IN TIME BY FORCE!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AND ALSO TEACH THEM TO RESPECT OTHERS!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Doraemon... That's definitely not you... You're not like that... What happened to understanding??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What bf did with your magic pocket was just a joke... he wasn't serious..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip bip..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Please... believe us..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OHHH DO YOU REALLY WANT ME TO BELIEVE YOU???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I WILL BUT... SHOW ME!! SHOW ME NOBITA OR BF!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bip boop ski bap boop..."
+		}
+	]
+}
