@@ -1,0 +1,172 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Doraemon, who are they and what are they doing here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraahh",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": " ahhhh I think I forgot to hide the time machine and these two have gotten into our time!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do you think that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's the most logical"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, you guys, it would be better to go back to your time before something bad happens"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sing a song? You're kidding?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Come on Doraemon, maybe a song is no problem"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is that... I don't know..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Go doraemon, say yes"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobicry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "PLEAASEEEEEEE!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorammm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok... but only ONE song ok?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok i'm ready... . . . . . . . . . . . . . . . . . ...hey Doraemon"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorammm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you want nobi?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I need... A microphone to help me to sing, please"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep baap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorammm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ugh, how demanding are you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorammm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I have one here but..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobihappy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Thanks man, now I'm ready... get ready boy!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "beeep booop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraahh",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOO!!! NOBIIII!!! ACTUALLY!!!!!...."
+		}
+	]
+}
