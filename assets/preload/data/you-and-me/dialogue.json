@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I guess now it all makes more sense..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have sung a lot, you have met many people."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "From a temperamental bomb-man, a smoking guy, a demonic nun..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "EVEN UP TO A POWERFUL GOD WITH 0.002% OF HIS POWER!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip baap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You must be someone very daring... not like me..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop biip bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop bap boop beep bop bip boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I hope one day I can have the same courage and bravery as you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know, after meeting you, I don't understand why Doraemon told you to get out."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop bep beep biip"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadhap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't think you're a bad person, you should even meet Shizuka."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadhap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Surely she would be amazed to see a couple like you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "baap bup"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadhap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah... It would be great... Her and you, You and me..."
+		}
+	]
+}
