@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nobisadhap.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nobisadsad0000" x="0" y="0" width="324" height="452"/>
+	<SubTexture name="nobisadsad0001" x="0" y="0" width="324" height="452"/>
+	<SubTexture name="nobisadsad0002" x="324" y="0" width="324" height="452"/>
+	<SubTexture name="nobisadsad0003" x="324" y="0" width="324" height="452"/>
+	<SubTexture name="nobisadsad0004" x="324" y="0" width="324" height="452"/>
+	<SubTexture name="nobisadsad0005" x="324" y="0" width="324" height="452"/>
+</TextureAtlas>
