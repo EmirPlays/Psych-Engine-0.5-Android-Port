@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "The time Machine!! It's true!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Our song must have been so emotional that the machine must have opened this gap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "To travel to the past and stop Dorathan!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Or well I guess..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop ski"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boooop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know, I guess maybe we can have something in common..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sometimes people are against us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We get into a lot of trouble, and we have to depend on someone..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip boo..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sometimes even Doraemon ignores me... as well as those who claim to be my friends..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep boo... boo..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop... beep ski do beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadhap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's good... I guess, we get ignored"
+		}
+	]
+}
