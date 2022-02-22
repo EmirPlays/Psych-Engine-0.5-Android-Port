@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh... Is it you... Are you coming to take another friend from me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No!! That's no excuse for what you did, you killed my friend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The only friend who really understood me..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bap bap ski do beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What are you going to know about that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He told you, get out of here!! you're going to upset the order!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But no... What did you do? you stayed to bother him!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bo..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AND THE WORST THING IS THAT THE MOST AFFECTED ONE IS ME!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOBITA NOBI AS ALWAYS TAKES THE BAD LUCK!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ON TOP OF IT IT WASN'T EVEN MY FAULT!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep bop bip biip biiip bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyway, I don't feel like it but I have nothing to lose by trying..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Insensitive brat..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "BAAAAAP"
+		}
+	]
+}
