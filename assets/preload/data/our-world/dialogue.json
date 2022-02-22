@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "doraarrepe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No... What am I doing?... I'm a monster"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraarrepe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I... I'm sorry... you're right... I shouldn't have made Dorathan..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep boop..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraarrepe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's true... It's true that you were just joking but... it was my fault, for being very serious"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobihap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "At least... it's good that you've finally forgiven this guy."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafuryoff",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I really appreciate that you helped me with my fury, rage and anger"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraarrepe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But really... Sorry bf, that's your name according to Nobi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep boop... ski do beep ba bo beep du boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraarrep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I appreciate that you forgive me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobihap",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IT'S GOOD THAT EVERYTHING IS BACK TO PEACE!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobihap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But it seems we have to say goodbye"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraarrepe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey?? But why??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobisup",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The timeline where Dorathan was born no longer exists, so both bf and me from the future will disappear."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobisup",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh maybe... we'll be part of some alternate line"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraarrepe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh it's true..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraarrep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do you think one last song before we say goodbye?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobihap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "For me... let's go there!!! what do you say bf?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "BEEEEP!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doraarrep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well... then, ready? because this song is one of my favorites too"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "BEEEP BOOOOP"
+		}
+	]
+}
