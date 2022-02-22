@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I guess I misjudged you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Even so... It doesn't justify that you killed Doraemon..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..Beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, I know... He lost his temper but, it's your fault."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep... Bap biip ski do beep..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "At least I appreciate that you regret it, but now how do you plan to fix the mess?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...bip bop boop..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...We can find a time gap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well... I guess we can team up and find a time gap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....Beep bap ski ba boop??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, that's where Doraemon and I traveled to other times in the world."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But hey... you challenged me to a battle, so, I guess there's still one song left."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...bip... boop beep bip... bo..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, if you want for while we can be friends."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip, bap nop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadhap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, it makes sense."
+		}
+	]
+}
