@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAAAAAAAAT!!!!???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT THE HELL HAPPENED?????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We did!!! we had to do it..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GRRRRRR HOW DARE YOU NOBITA!!!!????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU ARE A DIRTY TRAITOR!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop... beep bop..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No... I'm not, and this guy... he's not a bad guy either."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I DO NOT BELIEVE YOU ANYMORE!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Believe me... Please... Stop transform in Dorathan please..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ski boo bep..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "......!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOBITA.... PEOPLE SAY YOU ARE NAIVE AND THERE IS NO DOUBT ABOUT THAT!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IF YOU WERE SMART YOU WOULD KNOW THAT... DORATHAN IS NOT REAL!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..... Bep???????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadnobi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "........ Whaaaat?????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "EXACTLY!! DORATHAN IS NOT REAL... AT LEAST IN THIS DIMENSION...!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "EVERYTHING IS THANKS TO AN INVENTION THAT MAKES YOU SEE THINGS YOU DON'T!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BUT AS YOU KNOW NOW... I'M GOING TO FINISH YOU BLUE BOY FIRST... THEN..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorafury",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I WILL END NOBITA FOR HAVING ALLIED WITH YOU!!!!! TRAITORS!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop... Beap boop..."
+		}
+	]
+}
