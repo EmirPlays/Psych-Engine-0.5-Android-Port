@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_machine.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="machine0000" x="0" y="0" width="644" height="557"/>
+	<SubTexture name="machine0001" x="644" y="0" width="644" height="557"/>
+	<SubTexture name="machine0002" x="1288" y="0" width="644" height="557"/>
+	<SubTexture name="machine0003" x="0" y="557" width="644" height="557"/>
+	<SubTexture name="machine0004" x="644" y="557" width="644" height="557"/>
+	<SubTexture name="machine0005" x="1288" y="557" width="644" height="557"/>
+	<SubTexture name="machine0006" x="0" y="1114" width="644" height="557"/>
+	<SubTexture name="machine0007" x="644" y="1114" width="644" height="557"/>
+	<SubTexture name="machine0008" x="0" y="1114" width="644" height="557"/>
+	<SubTexture name="machine0009" x="1288" y="557" width="644" height="557"/>
+	<SubTexture name="machine0010" x="644" y="557" width="644" height="557"/>
+	<SubTexture name="machine0011" x="0" y="557" width="644" height="557"/>
+	<SubTexture name="machine0012" x="1288" y="0" width="644" height="557"/>
+	<SubTexture name="machine0013" x="644" y="0" width="644" height="557"/>
+	<SubTexture name="machine0014" x="0" y="0" width="644" height="557"/>
+</TextureAtlas>
