@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rel2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rodar0000" x="0" y="0" width="820" height="819"/>
+	<SubTexture name="rodar0001" x="820" y="0" width="820" height="819"/>
+	<SubTexture name="rodar0002" x="1640" y="0" width="820" height="819"/>
+	<SubTexture name="rodar0003" x="2460" y="0" width="820" height="819"/>
+	<SubTexture name="rodar0004" x="0" y="819" width="820" height="819"/>
+	<SubTexture name="rodar0005" x="820" y="819" width="820" height="819"/>
+</TextureAtlas>

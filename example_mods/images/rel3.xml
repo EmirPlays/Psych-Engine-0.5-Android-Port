@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rel1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rueda0000" x="0" y="0" width="653" height="651"/>
+	<SubTexture name="rueda0001" x="653" y="0" width="653" height="651"/>
+	<SubTexture name="rueda0002" x="1306" y="0" width="653" height="651"/>
+	<SubTexture name="rueda0003" x="0" y="651" width="653" height="651"/>
+	<SubTexture name="rueda0004" x="1306" y="0" width="653" height="651"/>
+	<SubTexture name="rueda0005" x="653" y="0" width="653" height="651"/>
+</TextureAtlas>
