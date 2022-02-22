@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".........."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....beep...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU SEE!! WHAT DID I TELL YOU!!?? I AM THE MOST UNLUCKY BEING IN THE WORLD!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IT'S TRUE!! I'M A LAZY KID!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BUT WHEN I PUT EFFORT NOTHING WORKS FOR ME!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep....?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GIANT... HE IS A HUGE FOOL WHO TAKES ADVANTAGE OF EVERYONE!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SUNEO... A SPOILED RICH KID WHO DESERVES A LESSON!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHIZUKA... MY FRIEND I LOVE SO MUCH BUT... SHE DESERVES SOMEONE BETTER...!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I WOULD LIKE TO TEACH EVERYONE THAT I AM NOT AS WEAK AS EVERYONE THINK..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....bop...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ONLY DORAEMON SUPPORTS ME, ALWAYS I NEED HIS INVENTIONS... BUT..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "DEEPLY I WANT HIM AS MY BEST FRIEND, HE IS MY ONLY TRUE SUPPORT!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....Bep baap bop.... Bip beep bop ski doo... Beep ski bap..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT WILL YOU KNOW??? YOU HAVE NEVER LOST ANYONE, YOU ONLY HAVE YOUR DEMONIC GIRLFRIEND!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".... Bop biip..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nobisadang",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU KNOW WHY YOU CAN'T!!!??? BECAUSE YOU HAVE NEVER LOST SOMEONE IMPORTANT!!!!"
+		}
+	]
+}
