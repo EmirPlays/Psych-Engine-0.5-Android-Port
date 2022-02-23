@@ -20,7 +20,7 @@ class CoolUtil
 	];
 
 	public static function difficultyString():String
-	{
+	]
 		return difficultyStuff[PlayState.storyDifficulty][0].toUpperCase();
 	}
 
