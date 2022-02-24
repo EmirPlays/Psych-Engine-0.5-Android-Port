@@ -1,5 +1,6 @@
 {
 	"storyName": "back to the present",
+	"difficulties": "Easy, Normal, Hard, Doublebarrel",
 	"hideFreeplay": false,
 	"weekBackground": "philly",
 	"freeplayColor": [

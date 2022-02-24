@@ -1,5 +1,6 @@
 {
 	"storyName": "feline leviathan",
+	"difficulties": "Easy, Normal, Hard, Doublebarrel",
 	"hideFreeplay": false,
 	"weekBackground": "dorathan",
 	"weekBefore": "tutorial",

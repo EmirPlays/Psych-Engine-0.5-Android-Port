@@ -1,5 +1,6 @@
 {
 	"storyName": "stand by me",
+	"difficulties": "Easy, Normal, Hard, Doublebarrel",
 	"hideFreeplay": false,
 	"weekBackground": "end",
 	"weekBefore": "cap6",
