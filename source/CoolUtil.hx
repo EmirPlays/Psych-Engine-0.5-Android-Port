@@ -29,10 +29,10 @@ class CoolUtil
 		if(newValue < min) newValue = min;
 		else if(newValue > max) newValue = max;
 		return newValue;
-	}
+	]
 
 	public static function coolTextFile(path:String):Array<String>
-	{
+	[
 		var daList:Array<String> = [];
 		if(Assets.exists(path)) daList = Assets.getText(path).trim().split('\n');
 
